@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("hello git!创建分支");
         System.out.println("hello git!主干添加");
         System.out.println("hello git!分支添加");
+        System.out.println("hello git!在线更新");
     }
 }
